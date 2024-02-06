@@ -34,7 +34,7 @@
 ### 2️⃣ Fine-Tuning을 이용한 학습 데이터 생성
 * 교육부에서 지정한 초/중학교 영단어를 Fine-Tuning하여 아이의 수준에 맞는 동화 제공
 * 비속어 방지 Fine-Tuning을 통해 비속어 나오는 것을 미연에 방지
-<img width="643" alt="image" src="https://github.com/BokDoong/i_luv_book-prometheus-hackathon/assets/102129660/ed917d98-d8df-4d2a-b875-13907e4be6ba">
+<div align="center"><img width="643" alt="image" src="https://github.com/BokDoong/i_luv_book-prometheus-hackathon/assets/102129660/ed917d98-d8df-4d2a-b875-13907e4be6ba"></div>
 
 
 ### 3️⃣ Prompt Engineering을 통한 게임형 동화 생성
